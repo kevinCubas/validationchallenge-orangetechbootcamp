@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+# React Challenge
+React login screen. Implements form authentication and validation using TypeScript and Yup.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
